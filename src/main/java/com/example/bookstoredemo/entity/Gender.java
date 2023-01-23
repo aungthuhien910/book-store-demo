@@ -1,2 +1,6 @@
-package com.example.bookstoredemo.entity;public class Gender {
+package com.example.bookstoredemo.entity;
+
+public enum Gender {
+
+    MALE,FEMALE
 }
