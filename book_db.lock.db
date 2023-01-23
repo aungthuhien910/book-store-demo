@@ -1,0 +1,6 @@
+#FileLock
+#Mon Jan 23 10:11:04 MMT 2023
+server=192.168.56.1\:57790
+hostName=MSI
+method=file
+id=185dcb701dd82ef1db9d3c0e278e8ed6b9a31ff1a2e
